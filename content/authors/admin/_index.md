@@ -1,6 +1,7 @@
 ---
 # Display name
-title: Shulu Chen (陈书路）
+title: Shulu Chen 
+(陈书路）
 
 # Is this the primary user of the site?
 superuser: true
@@ -18,9 +19,9 @@ bio: My research interests include Reinforcement Learning, Optimization, Machine
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Reinforcement Learning
+- Machine Learning
+- Data Analysis
 
 # Education to show in About widget
 education:
