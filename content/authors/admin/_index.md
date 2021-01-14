@@ -21,6 +21,7 @@ interests:
 - Reinforcement Learning
 - Machine Learning
 - Data Analysis
+- Optimization
 
 # Education to show in About widget
 education:
