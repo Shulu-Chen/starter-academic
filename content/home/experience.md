@@ -22,24 +22,27 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Data Analysis Intern
+    company: UBIAI Technology Company
     company_url: ''
-    location: California
-    date_start: '2017-01-01'
-    date_end: ''
+    location: Beijing, China
+    date_start: '2019-03'
+    date_end: '2019-07'
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Designed Vehicle Maintenance Prediction Model based on weather conditions and customers' driving behavior.
+
+        * Applied Arima models to predict driving mileage of customers. 
         
-  - title: Professor
-    company: University X
+  - title: Quality Management Intern
+    company: Beijing Benz Automotive Co., Ltd.
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Beijing, China
+    date_start: '2018-03'
+    date_end: '2018-7'
+    description: 
+         Audit complete operations, ranging from forging to assembly for entire manufacturing process
+            Collaborate with 8 engineers to produce 34-page quality manual for Quality Management Department
+      Complete quality management project from start-to-finish for inaugural model of Mercedes "GLC-L" for Chinese market
 ---
