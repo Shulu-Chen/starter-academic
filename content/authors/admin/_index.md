@@ -65,6 +65,6 @@ email: "shulu@gwu.edu"
 highlight_name: false
 ---
 
-I am a Ph.D. student with Professor Peng Wei.
+I am a Ph.D. student in the Department of Electrical and Computer Engineering at the George Washington University. My advisor is Professor Peng Wei and Professor Tian Lan. My current research focuses on the Deep Reinforcement and related applications.  
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
