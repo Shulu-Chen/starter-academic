@@ -28,13 +28,13 @@ education:
   courses:
   - course: PhD in Electrical and Computer Engineering 
     institution: George Washington University
-    year: 2021
+    year: 2021-Present
   - course: MS in Industrial and System Engineering
     institution: University of Illinois at Urbana Champaign
-    year: 2019
+    year: 2019-2020
   - course: BS in Automation Science
     institution: Beihang University
-    year: 2014
+    year: 2014-2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -43,7 +43,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: mailto:shulu@gwu.edu
 - icon: github
   icon_pack: fab
   link: https://github.com/Shulu-Chen
