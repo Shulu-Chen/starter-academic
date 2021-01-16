@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Shulu Chen    (陈书路）
+title: Shulu Chen
 
 # Is this the primary user of the site?
 superuser: true
