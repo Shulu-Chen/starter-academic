@@ -43,7 +43,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:shulu@gwu.edu
+  link: shulu@gwu.edu
 - icon: github
   icon_pack: fab
   link: https://github.com/Shulu-Chen
